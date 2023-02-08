@@ -37,4 +37,5 @@ THEN I find a concise, descriptive title
 
 #### Link to live website: https://russob22.github.io/saving-horiseon-with-refactoring/
 
-![Horiseon ](https://user-images.githubusercontent.com/123154529/217438295-2bb9aa4a-838a-488b-be92-0768a1602cee.png)
+![horiseon](https://user-images.githubusercontent.com/123154529/217443598-02a42770-8e48-4bf2-b16e-cb9f5297d9be.png)
+
