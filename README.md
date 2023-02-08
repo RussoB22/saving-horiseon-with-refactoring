@@ -37,4 +37,4 @@ THEN I find a concise, descriptive title
 
 #### Link to live website:
 
-![alt text](https://github.com/RussoB22/saving-horiseon-with-refactoring/blob/main/horiseon.jpg?raw=true)
+![alt text](https://github.com/RussoB22/saving-horiseon-with-refactoring/tree/main/assets/images/horiseon.png)
