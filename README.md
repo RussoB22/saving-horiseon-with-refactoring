@@ -37,4 +37,4 @@ THEN I find a concise, descriptive title
 
 #### Link to live website:
 
-![Horiseon](assets/images/horiseon.png)
+![Horiseon](assets/images/Horiseon.png)
